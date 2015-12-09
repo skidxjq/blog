@@ -6,9 +6,25 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 09 Dec 2015 13:32:49 +0800</pubDate>
-    <lastBuildDate>Wed, 09 Dec 2015 13:32:49 +0800</lastBuildDate>
+    <pubDate>Wed, 09 Dec 2015 14:05:24 +0800</pubDate>
+    <lastBuildDate>Wed, 09 Dec 2015 14:05:24 +0800</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>My Experience Learning!</title>
+        <description>&lt;h1 id=&quot;section&quot;&gt;我的学习之路&lt;/h1&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- 首先我要从很小的时候说起
+- 其二 我要说下兴趣这个东西
+- 这篇不涉及前端教学方法，只是涉及鄙人的学习历程
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Wed, 09 Dec 2015 13:45:55 +0800</pubDate>
+        <link>http://yourdomain.com/2015/12/09/my-experience-learning.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/12/09/my-experience-learning.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
