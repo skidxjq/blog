@@ -4,10 +4,10 @@
     <title>我是全全</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://blog.skidxjq.cn/</link>
-    <atom:link href="http://blog.skidxjq.cn/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 09 Dec 2015 19:08:46 +0800</pubDate>
-    <lastBuildDate>Wed, 09 Dec 2015 19:08:46 +0800</lastBuildDate>
+    <link>//</link>
+    <atom:link href="//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 10 Dec 2015 15:19:00 +0800</pubDate>
+    <lastBuildDate>Thu, 10 Dec 2015 15:19:00 +0800</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -20,8 +20,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Wed, 09 Dec 2015 13:45:55 +0800</pubDate>
-        <link>http://blog.skidxjq.cn/2015/12/09/my-experience-learning.html</link>
-        <guid isPermaLink="true">http://blog.skidxjq.cn/2015/12/09/my-experience-learning.html</guid>
+        <link>//2015/12/09/my-experience-learning.html</link>
+        <guid isPermaLink="true">//2015/12/09/my-experience-learning.html</guid>
         
         
       </item>
@@ -44,8 +44,8 @@
 
 </description>
         <pubDate>Wed, 09 Dec 2015 12:35:55 +0800</pubDate>
-        <link>http://blog.skidxjq.cn/jekyll/update/2015/12/09/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://blog.skidxjq.cn/jekyll/update/2015/12/09/welcome-to-jekyll.html</guid>
+        <link>//jekyll/update/2015/12/09/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">//jekyll/update/2015/12/09/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
